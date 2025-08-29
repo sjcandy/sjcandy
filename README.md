@@ -2,38 +2,16 @@
 
 # 🍭 ¡Hola! Soy Kura (sjcandy) 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Creador+de+Herramientas+%C3%9Atiles;Amante+del+C%C3%B3digo+Limpio;Siempre+Aprendiendo+%F0%9F%9A%80" alt="Typing SVG" />
-
-<!-- Usando SVG con fuente Poppins para títulos principales -->
-<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
-      .title { font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 24px; fill: #FF6B9D; }
-      .subtitle { font-family: 'Poppins', sans-serif; font-weight: 400; font-size: 14px; fill: #666; }
-    </style>
-  </defs>
-  <text x="50%" y="25" text-anchor="middle" class="title">✨ Desarrolladora Full Stack ✨</text>
-  <text x="50%" y="45" text-anchor="middle" class="subtitle">Creando el futuro con código limpio y pasión</text>
-</svg>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Desarrolladora+Full+Stack+%E2%9C%A8;%F0%9F%9A%80+Creadora+de+Herramientas+%C3%9Atiles;%F0%9F%92%96+Amante+del+C%C3%B3digo+Limpio;%F0%9F%8C%9F+Siempre+Aprendiendo" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 Sobre Mí
-
-<!-- Título con fuente Poppins usando SVG -->
 <div align="center">
-<svg width="300" height="40" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
-      .section-title { font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 20px; fill: #58A6FF; }
-    </style>
-  </defs>
-  <text x="50%" y="25" text-anchor="middle" class="section-title">🚀 Sobre Mí</text>
-</svg>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=300&lines=%F0%9F%9A%80+Sobre+M%C3%AD" alt="Sobre Mí" />
+
 </div>
 
 ```python
@@ -55,7 +33,11 @@ yo.decir_hola()
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=400&lines=%F0%9F%9B%A0%EF%B8%8F+Tecnolog%C3%ADas+%26+Herramientas" alt="Tecnologías" />
+
+</div>
 
 <div align="center">
 
@@ -75,7 +57,11 @@ yo.decir_hola()
 
 ---
 
-## 🌟 Proyectos Destacados
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2000&pause=500&color=10B981&center=true&vCenter=true&width=350&lines=%F0%9F%8C%9F+Proyectos+Destacados" alt="Proyectos" />
+
+</div>
 
 <div align="center">
 
@@ -91,7 +77,11 @@ yo.decir_hola()
 
 ---
 
-## 📊 Estadísticas de GitHub
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2000&pause=500&color=F59E0B&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+Estad%C3%ADsticas+de+GitHub" alt="Estadísticas" />
+
+</div>
 
 <div align="center">
 
@@ -108,19 +98,10 @@ yo.decir_hola()
 
 ---
 
-## 🎯 Lo que me Motiva
-
-<!-- Título con fuente Poppins -->
 <div align="center">
-<svg width="350" height="40" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
-      .section-title { font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 20px; fill: #F97316; }
-    </style>
-  </defs>
-  <text x="50%" y="25" text-anchor="middle" class="section-title">🎯 Lo que me Motiva</text>
-</svg>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2000&pause=500&color=EF4444&center=true&vCenter=true&width=350&lines=%F0%9F%8E%AF+Lo+que+me+Motiva" alt="Motivación" />
+
 </div>
 
 ```javascript
@@ -137,7 +118,11 @@ console.log("🚀 Siempre en busca de nuevos desafíos!");
 
 ---
 
-## 🌐 Conecta Conmigo
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&width=300&lines=%F0%9F%8C%90+Conecta+Conmigo" alt="Conecta Conmigo" />
+
+</div>
 
 <div align="center">
 
@@ -150,14 +135,22 @@ console.log("🚀 Siempre en busca de nuevos desafíos!");
 
 ---
 
-## 🎨 Actividad Reciente
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=300&lines=%F0%9F%8E%A8+Actividad+Reciente" alt="Actividad" />
+
+</div>
 
 START_SECTION:activity
 END_SECTION:activity
 
 ---
 
-## 💡 Dato Curioso
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2000&pause=500&color=F97316&center=true&vCenter=true&width=250&lines=%F0%9F%92%A1+Dato+Curioso" alt="Dato Curioso" />
+
+</div>
 
 <div align="center">
 
@@ -173,21 +166,7 @@ END_SECTION:activity
 
 <div align="center">
 
-<!-- Título final con fuente Poppins y gradiente -->
-<svg width="400" height="50" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
-      .final-title { font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 18px; }
-    </style>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF6B9D;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#58A6FF;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#F97316;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <text x="50%" y="30" text-anchor="middle" class="final-title" fill="url(#gradient)">🌟 "El código es poesía en movimiento" 🌟</text>
-</svg>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=FF6B9D,58A6FF,F97316&center=true&vCenter=true&width=500&lines=%F0%9F%8C%9F+%22El+c%C3%B3digo+es+poes%C3%ADa+en+movimiento%22+%F0%9F%8C%9F" alt="Frase Final" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sjcandy&color=brightgreen&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/sjcandy?style=social)
