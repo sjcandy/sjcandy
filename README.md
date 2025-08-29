@@ -23,7 +23,7 @@ class Desarrollador:
     def decir_hola(self):
         print(f"¡Hola! Soy {self.nombre} ({self.username}). Gracias por visitar mi perfil 🎉")
 
-# Crear un objeto (instancia) de la clase
+
 yo = Desarrollador(
     nombre="Kura",
     username="sjcandy",
@@ -33,7 +33,7 @@ yo = Desarrollador(
     estado_actual="Construyendo el futuro, una línea a la vez 💻"
 )
 
-# Ejecutar el método
+
 yo.decir_hola()
 
 ```
