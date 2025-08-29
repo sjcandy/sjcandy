@@ -113,8 +113,15 @@ console.log("🚀 Siempre en busca de nuevos desafíos!");
 
 ## 🎨 Actividad Reciente
 
-START_SECTION:activity
-END_SECTION:activity
+<div align="center">
+
+### 🔥 Últimos Commits
+- 🚀 Trabajando en nuevas funcionalidades para ModernFetch
+- ✨ Mejoras en la interfaz de TerminalFolio  
+- 🐛 Corrección de bugs en KeyForge
+- 📝 Actualizando documentación de proyectos
+
+</div>
 
 ---
 
