@@ -8,11 +8,7 @@
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=300&lines=%F0%9F%9A%80+Sobre+M%C3%AD" alt="Sobre Mí" />
-
-</div>
+## 🚀 Sobre Mí
 
 ```python
 class Desarrollador:
@@ -33,11 +29,7 @@ yo.decir_hola()
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=400&lines=%F0%9F%9B%A0%EF%B8%8F+Tecnolog%C3%ADas+%26+Herramientas" alt="Tecnologías" />
-
-</div>
+## 🛠️ Tecnologías & Herramientas
 
 <div align="center">
 
@@ -57,11 +49,7 @@ yo.decir_hola()
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2000&pause=500&color=10B981&center=true&vCenter=true&width=350&lines=%F0%9F%8C%9F+Proyectos+Destacados" alt="Proyectos" />
-
-</div>
+## 🌟 Proyectos Destacados
 
 <div align="center">
 
@@ -77,11 +65,7 @@ yo.decir_hola()
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2000&pause=500&color=F59E0B&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+Estad%C3%ADsticas+de+GitHub" alt="Estadísticas" />
-
-</div>
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -98,11 +82,7 @@ yo.decir_hola()
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2000&pause=500&color=EF4444&center=true&vCenter=true&width=350&lines=%F0%9F%8E%AF+Lo+que+me+Motiva" alt="Motivación" />
-
-</div>
+## 🎯 Lo que me Motiva
 
 ```javascript
 const miFilosofia = {
@@ -118,11 +98,7 @@ console.log("🚀 Siempre en busca de nuevos desafíos!");
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&width=300&lines=%F0%9F%8C%90+Conecta+Conmigo" alt="Conecta Conmigo" />
-
-</div>
+## 🌐 Conecta Conmigo
 
 <div align="center">
 
@@ -135,22 +111,14 @@ console.log("🚀 Siempre en busca de nuevos desafíos!");
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=300&lines=%F0%9F%8E%A8+Actividad+Reciente" alt="Actividad" />
-
-</div>
+## 🎨 Actividad Reciente
 
 START_SECTION:activity
 END_SECTION:activity
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2000&pause=500&color=F97316&center=true&vCenter=true&width=250&lines=%F0%9F%92%A1+Dato+Curioso" alt="Dato Curioso" />
-
-</div>
+## 💡 Dato Curioso
 
 <div align="center">
 
@@ -166,7 +134,7 @@ END_SECTION:activity
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1000&color=FF6B9D,58A6FF,F97316&center=true&vCenter=true&width=500&lines=%F0%9F%8C%9F+%22El+c%C3%B3digo+es+poes%C3%ADa+en+movimiento%22+%F0%9F%8C%9F" alt="Frase Final" />
+### 🌟 "El código es poesía en movimiento" 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sjcandy&color=brightgreen&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/sjcandy?style=social)
