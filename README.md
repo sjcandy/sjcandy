@@ -4,11 +4,37 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Creador+de+Herramientas+%C3%9Atiles;Amante+del+C%C3%B3digo+Limpio;Siempre+Aprendiendo+%F0%9F%9A%80" alt="Typing SVG" />
 
+<!-- Usando SVG con fuente Poppins para títulos principales -->
+<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+      .title { font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 24px; fill: #FF6B9D; }
+      .subtitle { font-family: 'Poppins', sans-serif; font-weight: 400; font-size: 14px; fill: #666; }
+    </style>
+  </defs>
+  <text x="50%" y="25" text-anchor="middle" class="title">✨ Desarrolladora Full Stack ✨</text>
+  <text x="50%" y="45" text-anchor="middle" class="subtitle">Creando el futuro con código limpio y pasión</text>
+</svg>
+
 </div>
 
 ---
 
 ## 🚀 Sobre Mí
+
+<!-- Título con fuente Poppins usando SVG -->
+<div align="center">
+<svg width="300" height="40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+      .section-title { font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 20px; fill: #58A6FF; }
+    </style>
+  </defs>
+  <text x="50%" y="25" text-anchor="middle" class="section-title">🚀 Sobre Mí</text>
+</svg>
+</div>
 
 ```python
 class Desarrollador:
@@ -84,6 +110,19 @@ yo.decir_hola()
 
 ## 🎯 Lo que me Motiva
 
+<!-- Título con fuente Poppins -->
+<div align="center">
+<svg width="350" height="40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+      .section-title { font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 20px; fill: #F97316; }
+    </style>
+  </defs>
+  <text x="50%" y="25" text-anchor="middle" class="section-title">🎯 Lo que me Motiva</text>
+</svg>
+</div>
+
 ```javascript
 const miFilosofia = {
     codigo: "Escribir código que otros puedan entender y mantener",
@@ -134,7 +173,21 @@ END_SECTION:activity
 
 <div align="center">
 
-### 🌟 "El código es poesía en movimiento" 🌟
+<!-- Título final con fuente Poppins y gradiente -->
+<svg width="400" height="50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+      .final-title { font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 18px; }
+    </style>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF6B9D;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#58A6FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F97316;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <text x="50%" y="30" text-anchor="middle" class="final-title" fill="url(#gradient)">🌟 "El código es poesía en movimiento" 🌟</text>
+</svg>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sjcandy&color=brightgreen&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/sjcandy?style=social)
