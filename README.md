@@ -12,19 +12,30 @@
 
 ```python
 class Desarrollador:
-    def __init__(self):
-        self.nombre = "Kura"
-        self.username = "sjcandy"
-        self.lenguajes = ["Python", "JavaScript", "CSS", "HTML"]
-        self.especialidades = ["Automatización", "Web Development", "Tools Creation"]
-        self.pasiones = ["Código limpio", "Innovación", "Resolver problemas"]
-        self.estado_actual = "Construyendo el futuro, una línea a la vez 💻"
+    def __init__(self, nombre, username, lenguajes, especialidades, pasiones, estado_actual):
+        self.nombre = nombre
+        self.username = username
+        self.lenguajes = lenguajes
+        self.especialidades = especialidades
+        self.pasiones = pasiones
+        self.estado_actual = estado_actual
     
     def decir_hola(self):
-        print("¡Gracias por visitar mi perfil! 🎉")
+        print(f"¡Hola! Soy {self.nombre} ({self.username}). Gracias por visitar mi perfil 🎉")
 
-yo = Desarrollador()
+# Crear un objeto (instancia) de la clase
+yo = Desarrollador(
+    nombre="Kura",
+    username="sjcandy",
+    lenguajes=["Python", "JavaScript", "CSS", "HTML"],
+    especialidades=["Automatización", "Web Development", "Tools Creation"],
+    pasiones=["Código limpio", "Innovación", "Resolver problemas"],
+    estado_actual="Construyendo el futuro, una línea a la vez 💻"
+)
+
+# Ejecutar el método
 yo.decir_hola()
+
 ```
 
 ---
