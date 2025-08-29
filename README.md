@@ -1,4 +1,4 @@
-<div align="center" style="font-family: 'Poppins', sans-serif;">
+<div align="center">
 
 # 🍭 ¡Hola! Soy Kura (sjcandy) 
 
@@ -7,8 +7,6 @@
 </div>
 
 ---
-
-<div style="font-family: 'Poppins', sans-serif;">
 
 ## 🚀 Sobre Mí
 
@@ -134,7 +132,7 @@ END_SECTION:activity
 
 ---
 
-<div align="center" style="font-family: 'Poppins', sans-serif;">
+<div align="center">
 
 ### 🌟 "El código es poesía en movimiento" 🌟
 
@@ -142,7 +140,5 @@ END_SECTION:activity
 ![Followers](https://img.shields.io/github/followers/sjcandy?style=social)
 
 **¡Gracias por visitar mi perfil! No olvides darle ⭐ a mis repositorios si te gustan!**
-
-</div>
 
 </div>
