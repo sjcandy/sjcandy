@@ -1,12 +1,14 @@
-<div align="center">
+<div align="center" style="font-family: 'Poppins', sans-serif;">
 
 # 🍭 ¡Hola! Soy Kura (sjcandy) 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Desarrolladora+Full+Stack;Creadora+de+Herramientas+%C3%9Atiles;Amante+del+C%C3%B3digo+Limpio;Siempre+Aprendiendo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Creador+de+Herramientas+%C3%9Atiles;Amante+del+C%C3%B3digo+Limpio;Siempre+Aprendiendo+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 ---
+
+<div style="font-family: 'Poppins', sans-serif;">
 
 ## 🚀 Sobre Mí
 
@@ -132,7 +134,7 @@ END_SECTION:activity
 
 ---
 
-<div align="center">
+<div align="center" style="font-family: 'Poppins', sans-serif;">
 
 ### 🌟 "El código es poesía en movimiento" 🌟
 
@@ -140,5 +142,7 @@ END_SECTION:activity
 ![Followers](https://img.shields.io/github/followers/sjcandy?style=social)
 
 **¡Gracias por visitar mi perfil! No olvides darle ⭐ a mis repositorios si te gustan!**
+
+</div>
 
 </div>
