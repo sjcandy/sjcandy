@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre Mí
 
-\`\`\`python
+```python
 class Desarrollador:
     def __init__(self):
         self.nombre = "Kura"
