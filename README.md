@@ -115,11 +115,7 @@ console.log("🚀 Siempre en busca de nuevos desafíos!");
 
 <div align="center">
 
-### 🔥 Últimos Commits
-- 🚀 Trabajando en nuevas funcionalidades para ModernFetch
-- ✨ Mejoras en la interfaz de TerminalFolio  
-- 🐛 Corrección de bugs en KeyForge
-- 📝 Actualizando documentación de proyectos
+[![Kura's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjcandy&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
