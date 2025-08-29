@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=1000&pause=500&color=FF6B9D&center=true&vCenter=true&width=500&lines=%F0%9F%8D%AD+%C2%A1Hola!+Soy+Kura+(sjcandy)" alt="Título Principal" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=0&pause=0&color=FF6B9D&center=true&vCenter=true&width=500&lines=%F0%9F%8D%AD+%C2%A1Hola!+Soy+Kura+(sjcandy)" alt="Título Principal" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Desarrolladora+Full+Stack+%E2%9C%A8;%F0%9F%9A%80+Creadora+de+Herramientas+%C3%9Atiles;%F0%9F%92%96+Amante+del+C%C3%B3digo+Limpio;%F0%9F%8C%9F+Siempre+Aprendiendo" alt="Typing SVG" />
 
