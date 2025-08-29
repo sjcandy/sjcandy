@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre Mí
 
-\`\`\`python
+```python
 class Desarrollador:
     def __init__(self):
         self.nombre = "Kura"
@@ -25,7 +25,7 @@ class Desarrollador:
 
 yo = Desarrollador()
 yo.decir_hola()
-\`\`\`
+```
 
 ---
 
@@ -84,7 +84,7 @@ yo.decir_hola()
 
 ## 🎯 Lo que me Motiva
 
-\`\`\`javascript
+```javascript
 const miFilosofia = {
     codigo: "Escribir código que otros puedan entender y mantener",
     aprendizaje: "Nunca dejar de aprender nuevas tecnologías",
@@ -94,7 +94,7 @@ const miFilosofia = {
 };
 
 console.log("🚀 Siempre en busca de nuevos desafíos!");
-\`\`\`
+```
 
 ---
 
@@ -122,11 +122,11 @@ END_SECTION:activity
 
 <div align="center">
 
-\`\`\`
+```
 🍭 Mi username "sjcandy" refleja mi dulce pasión por el código
 🎯 Cada proyecto es una oportunidad para aprender algo nuevo
 🚀 Creo en el poder del código para cambiar el mundo
-\`\`\`
+```
 
 </div>
 
